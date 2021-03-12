@@ -51,7 +51,7 @@ main a:hover {
 
 .text:focus {
     outline: none;
-    border:1px solid hsl(239, 100%, 50%);
+    border:2px solid hsl(239, 100%, 50%);
 }
 
 /* Target alle heading tags op de pagina en zet hun font-family op 'Bree Serif', serif */
