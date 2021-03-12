@@ -15,7 +15,7 @@ ul {
 
 /* 1.3 Geef de 'span' tag in de footer een beschrijvende class name en maak de lettergrootte kleiner  */
 
-footer {
+.copyright {
     font-size: 75%;
 }
 
